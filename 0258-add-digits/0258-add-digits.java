@@ -9,6 +9,6 @@ class Solution {
         if(num==0){
             return 0;
         }
-        return (num%10)+(num/10);
+        return (num%10)+sumdig(num/10);
     }
 }
