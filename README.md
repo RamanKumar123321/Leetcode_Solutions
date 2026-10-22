@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -20,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
