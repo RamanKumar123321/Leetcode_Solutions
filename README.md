@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0912-sort-an-array) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,8 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0258-add-digits) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0258-add-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [3354-make-array-elements-equal-to-zero](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/3354-make-array-elements-equal-to-zero) |
 <!---LeetCode Topics End-->
