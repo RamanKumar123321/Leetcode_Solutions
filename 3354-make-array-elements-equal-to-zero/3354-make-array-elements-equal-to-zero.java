@@ -1,25 +1,15 @@
 class Solution {
-    public int countValidSelections(int[] nums) {
-        int total = 0;
-        for (int x : nums) total += x;
+    public int countValidSelections(int[] a) {
+        int sum = 0, left = 0, ans = 0;
+        for (int x : a) sum += x;
 
-        int left = 0;
-        int ans = 0;
-
-        for (int x : nums) {
-            left += x;
-
+        for (int x : a) {
             if (x == 0) {
-                int right = total - left;
-
-                if (left == right) {
-                    ans += 2;
-                } else if (Math.abs(left - right) == 1) {
-                    ans += 1;
-                }
+                int d = Math.abs(left - (sum - left));
+                ans += d == 0 ? 2 : d == 1 ? 1 : 0;
             }
+            left += x;
         }
-
         return ans;
     }
 }
