@@ -62,4 +62,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3354-make-array-elements-equal-to-zero](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/3354-make-array-elements-equal-to-zero) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
