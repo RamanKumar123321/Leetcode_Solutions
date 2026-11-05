@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0506-relative-ranks](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/3354-make-array-elements-equal-to-zero) |
@@ -117,4 +118,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
