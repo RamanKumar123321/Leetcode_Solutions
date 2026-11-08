@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 ## Stack
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0365-water-and-jug-problem](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0365-water-and-jug-problem) |
 | [0509-fibonacci-number](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 ## Linked List
