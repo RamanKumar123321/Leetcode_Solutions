@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0506-relative-ranks](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0506-relative-ranks) |
+| [0746-min-cost-climbing-stairs](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Divide and Conquer
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/RamanKumar123321/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
